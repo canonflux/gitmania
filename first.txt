@@ -1,1 +1,2 @@
-print("Welcome to GitMania 2026")
+Welcome to GitMania 2026
+good afternoon
